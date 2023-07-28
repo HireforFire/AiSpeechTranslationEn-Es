@@ -1,5 +1,3 @@
-Sure, here's a condensed version of the code and the GitHub README:
-
 **Code: speech_translation.py**
 
 ```python
